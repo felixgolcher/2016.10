@@ -1,5 +1,48 @@
 # Die aktuellen Aufgaben/Dateien 
 
+## Die angekündigten Lösungen
+
+Hier ein paar Lösungen zu Aufgaben aus dem Westermannbuch Klasse 7
+
+### S. 178
+
+* 1b: 5
+* 3: 3, 1, 5
+* 4:
+  * 5=4x+1 => x=1; 
+  * 3x = 4+x=> x=2; 
+  * 4x+3 = 2x+5 => x = 1; 
+  * 3x+5=6x+2 => x=1
+
+### S. 179
+
+* 1c: x=2
+* 2a: 2, 5, 4
+* 2b: 2, 8, 14
+* 3c: 8
+* 4a: 6, 9
+* 4b: 12, 11
+* 6a: 2,5,7
+* 6b: 7,3,5
+* 6c: 5,4,5
+* 7b: 2,4,9
+* 7c: 7,6,5
+
+### S. 180
+
+* 8a: 4,9,4
+* 8b: 5,2,4
+* 8c: 2,1,4
+* 8d: 5,2,4
+* 9b: 4,20,21,60
+* 13: a: 3, b: 4, c: 9, d: 9
+* 16: 
+  * a: 4
+  * b: 9
+  * c: 4
+  * d: 9
+
+
 # Über dieses Verzeichnis
 
 Hier findet sich das Übungs- und Unterrichtsmaterial für Mathematik und Physik für die 10. Klasse.
