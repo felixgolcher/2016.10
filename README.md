@@ -44,10 +44,10 @@ Hier ein paar Lösungen zu Aufgaben aus dem Westermannbuch Klasse 7
 
 ### S. 183
 
-* 2a: $1,5€ +x*0,5€ = 4 €$; $x=5$
-* 2b: $1,9€+x*0,75€=6,4€$; $x=6$
-* 2c: $x*0,58=10-3,04$; $x=12$
-* 2d: $x*3,5 = 100-2$; $x=12$
+* 2a: $1,5€ +x\cdot 0,5€ = 4 €\quad\Rightarrow\quad x=5$
+* 2b: $1,9€+x\cdot0,75€=6,4€$; $x=6$
+* 2c: $x\cdot0,58=10-3,04$; $x=12$
+* 2d: $x\cdot3,5 = 100-2$; $x=12$
 
 # Über dieses Verzeichnis
 
