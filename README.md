@@ -52,6 +52,12 @@ Hier ein paar Lösungen zu Aufgaben aus dem Westermannbuch Klasse 7
 
 2d: $x\cdot3,5 = 100-2\quad\Rightarrow\quad x=12$
 
+### S. 188
+
+1) A:3 B:1 C:5 D:4 E:2 F:6
+3) a) 26 b) 30
+4) A) x=6 cm B) x=7 cm C) x=11 cm D) x = 7 cm E) x = 10 cm F) x = 5 cm
+
 # Über dieses Verzeichnis
 
 Hier findet sich das Übungs- und Unterrichtsmaterial für Mathematik und Physik für die 10. Klasse.
