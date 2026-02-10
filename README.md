@@ -2,6 +2,9 @@
 
 * Das Aufgabenblatt 13 zur Lösung(szahl) linearer Gleichungen ist [hier](/mathe/arbeitsmaterial/aufg-13-loesungszahl-2026-02-10.pdf).
 
+* Der heutige [Quiz](mathe/quiz/2026-02-10-quiz.pdf) und die [Lösung](mathe/quiz/2026-02-10-quiz-loes.pdf)
+
+
 # Über dieses Verzeichnis
 
 Hier findet sich das Übungs- und Unterrichtsmaterial für Mathematik und Physik für die 10. Klasse.
