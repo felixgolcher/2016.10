@@ -1,6 +1,6 @@
 # Die aktuellen Aufgaben/Dateien 
 
-Der Test vom 5.12. ist nun auch online.
+* Das Aufgabenblatt 13 zur Lösung(szahl) linearer Gleichungen ist [hier](/mathe/arbeitsmaterial/aufg-13-loesungszahl-2026-02-10.pdf).
 
 # Über dieses Verzeichnis
 
