@@ -4,6 +4,9 @@
 
 * Der heutige [Quiz](mathe/quiz/2026-02-10-quiz.pdf) und die [Lösung](mathe/quiz/2026-02-10-quiz-loes.pdf)
 
+# Ständig interessante Dateien
+
+Die [Lösungen](mathe/arbeitsmaterial/loesungen-buch-8.pdf) zu Buch 8.
 
 # Über dieses Verzeichnis
 
