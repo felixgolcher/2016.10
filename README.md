@@ -2,7 +2,7 @@
 
 * Das Aufgabenblatt 13 zur Lösung(szahl) linearer Gleichungen ist [hier](/mathe/arbeitsmaterial/aufg-13-loesungszahl-2026-02-10.pdf).
 
-* [Das](https://www.korrekturen.de/genus/der-oder-das-quiz.shtml) heutige [Quiz](mathe/quiz/2026-02-10-quiz.pdf) und die [Lösung](mathe/quiz/2026-02-10-quiz-loes.pdf)
+* [Das](https://www.korrekturen.de/genus/der-oder-das-quiz.shtml) heutige [Quiz](mathe/quiz/2026-02-10-quiz.pdf) und die [Lösung](mathe/quiz/2026-02-10-quiz-loes.pdf).
 
 # Ständig interessante Dateien
 
