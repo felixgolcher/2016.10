@@ -4,6 +4,9 @@ Die [Lösungen](mathe/arbeitsmaterial/loesungen-buch-8.pdf) zu Buch 8.
 
 # Die aktuellen Aufgaben/Dateien 
 
+* Das Aufgabenblatt 14 (Knobelaufgabe) ist [hier](mathe/arbeitsmaterial/aufg-14-allgemein-2026-02-10.pdf) und hier die [Lösung](mathe/arbeitsmaterial/loes-14-allgemein-2026-02-10.pdf).
+
+
 * Die [Mitschrift](mathe/mitschriften_und_texte/25_2026-02-12_gleichungssysteme_abschluss.pdf) von heute.
 
 * [Das](https://www.korrekturen.de/genus/der-oder-das-quiz.shtml) heutige [Quiz](mathe/quiz/2026-02-12-quiz.pdf) und die [Lösung](mathe/quiz/2026-02-12-quiz-loes.pdf).
