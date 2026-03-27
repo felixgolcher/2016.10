@@ -8,8 +8,9 @@ Die [Lösungen](mathe/arbeitsmaterial/loesungen-buch-8.pdf) zu Buch 8.
 
 # Die aktuellen Aufgaben/Dateien 
 
-* [Aufgabenblatt 21](mathe/arbeitsmaterial/aufg-21-einheiten-2026-03-27.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-21-einheiten-2026-03-27-loes.pdf)
+* Maße und Einheiten: [Aufgabenblatt 21](mathe/arbeitsmaterial/aufg-21-einheiten-2026-03-27.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-21-einheiten-2026-03-27-loes.pdf)
 
+* Würfelnetze: [Aufgabenblatt 20](mathe/arbeitsmaterial/aufg-20-netze-2026-03-24.pdf) mit [Lösung](mathe/arbeitsmaterial/loes-20-netze-2026-03-24.pdf)
 
 * Die [Mitschrift](mathe/mitschriften_und_texte/26_2026-03-18_bbr_01_bits_and_bobs.pdf) vom 2026-03-18.
 
