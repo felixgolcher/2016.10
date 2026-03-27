@@ -12,6 +12,8 @@ Die [Lösungen](mathe/arbeitsmaterial/loesungen-buch-8.pdf) zu Buch 8.
 
 * Würfelnetze: [Aufgabenblatt 20](mathe/arbeitsmaterial/aufg-20-netze-2026-03-24.pdf) mit [Lösung](mathe/arbeitsmaterial/loes-20-netze-2026-03-24.pdf)
 
+* Spannweite etc [Arbeitsblatt 19](mathe/arbeitsmaterial/aufg-19-durchschnitt-2026-03-24.pdf) mit [Lösung](mathe/arbeitsmaterial/loes-19-durchschnitt-2026-03-24.pdf)
+
 * Die [Mitschrift](mathe/mitschriften_und_texte/26_2026-03-18_bbr_01_bits_and_bobs.pdf) vom 2026-03-18.
 
 * Das Aufgabenblatt 14 (Knobelaufgabe) ist [hier](mathe/arbeitsmaterial/aufg-14-allgemein-2026-02-10.pdf) und hier die [Lösung](mathe/arbeitsmaterial/loes-14-allgemein-2026-02-10.pdf).
