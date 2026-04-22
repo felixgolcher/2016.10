@@ -8,6 +8,9 @@ Die [Lösungen](mathe/arbeitsmaterial/loesungen-buch-8.pdf) zu Buch 8.
 
 # Die aktuellen Aufgaben/Dateien 
 
+* mal wieder Maße und Einheiten, vor allem Liter und Volumina: [Aufgabenblatt 23](mathe/arbeitsmaterial/aufg-23-einheiten-2026-04-22.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-23-einheiten-2026-04-22-loes.pdf)
+
+
 * Maße und Einheiten: [Aufgabenblatt 21](mathe/arbeitsmaterial/aufg-21-einheiten-2026-03-27.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-21-einheiten-2026-03-27-loes.pdf)
 
 * Würfelnetze: [Aufgabenblatt 20](mathe/arbeitsmaterial/aufg-20-netze-2026-03-24.pdf) mit [Lösung](mathe/arbeitsmaterial/loes-20-netze-2026-03-24.pdf)
