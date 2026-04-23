@@ -8,6 +8,8 @@ Die [Lösungen](mathe/arbeitsmaterial/loesungen-buch-8.pdf) zu Buch 8.
 
 # Die aktuellen Aufgaben/Dateien 
 
+* Diese eine Sorte von Prozentaufgaben: [Aufgabenblatt 24](mathe/arbeitsmaterial/aufg-24-prozent-2026-04-23.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-24-prozent-2026-04-23-loes.pdf)
+
 * mal wieder Maße und Einheiten, vor allem Liter und Volumina: [Aufgabenblatt 23](mathe/arbeitsmaterial/aufg-23-einheiten-2026-04-22.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-23-einheiten-2026-04-22-loes.pdf)
 
 
