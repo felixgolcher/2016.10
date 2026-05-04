@@ -8,6 +8,9 @@ Die [Lösungen](mathe/arbeitsmaterial/loesungen-buch-8.pdf) zu Buch 8.
 
 # Die aktuellen Aufgaben/Dateien 
 
+* Zum Zinseszins gab es 3 Aufgabenblätter: [26](mathe/arbeitsmaterial/aufg-26-prozdez-2026-05-04.pdf), [27](mathe/arbeitsmaterial/aufg-27-prozdez-2026-05-04.pdf) und [28](mathe/arbeitsmaterial/aufg-28-prozdez-2026-05-04.pdf).
+
+
 * BBR-Style "Mindestens"-Aufgaben: [Aufgabenblatt 25](mathe/arbeitsmaterial/aufg-25-mindestens-2026-04-24.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-25-mindestens-2026-04-24-loes.pdf)
 
 * Diese eine Sorte von Prozentaufgaben: [Aufgabenblatt 24](mathe/arbeitsmaterial/aufg-24-prozent-2026-04-23.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-24-prozent-2026-04-23-loes.pdf)
