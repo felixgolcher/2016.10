@@ -4,6 +4,8 @@ Die [Lösungen](mathe/arbeitsmaterial/loesungen-buch-8.pdf) zu Buch 8.
 
 # Die aktuellen Aufgaben/Dateien 
 
+* Aufgabenblatt [29](mathe/arbeitsmaterial/aufg-29-zinsfkt-2026-05-05.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-29-zinsfkt-2026-05-05-loes.pdf).
+
 * [Mitschrift](mathe/mitschriften_und_texte/27_2026-05-04_zinseszinsformel.pdf) vom 4.5.
 
 * Zum Zinseszins gab es 3 Aufgabenblätter: [Auffgabenblatt 26](mathe/arbeitsmaterial/aufg-26-prozdez-2026-05-04.pdf) (mit [Lösung](mathe/arbeitsmaterial/aufg-26-prozdez-2026-05-04-loes.pdf)), [Aufgabenblatt 27](mathe/arbeitsmaterial/aufg-27-prozdez-2026-05-04.pdf) (mit [Lösung](mathe/arbeitsmaterial/aufg-27-prozdez-2026-05-04-loes.pdf)) und [Aufgabenblatt 28](mathe/arbeitsmaterial/aufg-28-prozdez-2026-05-04.pdf) (mit [Lösung](mathe/arbeitsmaterial/aufg-28-prozdez-2026-05-04-loes.pdf)).
