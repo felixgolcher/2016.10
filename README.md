@@ -4,39 +4,10 @@ Die [Lösungen](mathe/arbeitsmaterial/loesungen-buch-8.pdf) zu Buch 8.
 
 # Die aktuellen Aufgaben/Dateien 
 
-* Aufgabenblatt [29](mathe/arbeitsmaterial/aufg-29-zinsfkt-2026-05-05.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-29-zinsfkt-2026-05-05-loes.pdf).
+## 2026-06-01
 
-* [Mitschrift](mathe/mitschriften_und_texte/27_2026-05-04_zinseszinsformel.pdf) vom 4.5.
-
-* Zum Zinseszins gab es 3 Aufgabenblätter: [Auffgabenblatt 26](mathe/arbeitsmaterial/aufg-26-prozdez-2026-05-04.pdf) (mit [Lösung](mathe/arbeitsmaterial/aufg-26-prozdez-2026-05-04-loes.pdf)), [Aufgabenblatt 27](mathe/arbeitsmaterial/aufg-27-prozdez-2026-05-04.pdf) (mit [Lösung](mathe/arbeitsmaterial/aufg-27-prozdez-2026-05-04-loes.pdf)) und [Aufgabenblatt 28](mathe/arbeitsmaterial/aufg-28-prozdez-2026-05-04.pdf) (mit [Lösung](mathe/arbeitsmaterial/aufg-28-prozdez-2026-05-04-loes.pdf)).
-
-
-* BBR-Style "Mindestens"-Aufgaben: [Aufgabenblatt 25](mathe/arbeitsmaterial/aufg-25-mindestens-2026-04-24.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-25-mindestens-2026-04-24-loes.pdf)
-
-* Diese eine Sorte von Prozentaufgaben: [Aufgabenblatt 24](mathe/arbeitsmaterial/aufg-24-prozent-2026-04-23.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-24-prozent-2026-04-23-loes.pdf)
-
-* mal wieder Maße und Einheiten, vor allem Liter und Volumina: [Aufgabenblatt 23](mathe/arbeitsmaterial/aufg-23-einheiten-2026-04-22.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-23-einheiten-2026-04-22-loes.pdf)
-
-
-* Maße und Einheiten: [Aufgabenblatt 21](mathe/arbeitsmaterial/aufg-21-einheiten-2026-03-27.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-21-einheiten-2026-03-27-loes.pdf)
-
-* Würfelnetze: [Aufgabenblatt 20](mathe/arbeitsmaterial/aufg-20-netze-2026-03-24.pdf) mit [Lösung](mathe/arbeitsmaterial/loes-20-netze-2026-03-24.pdf)
-
-* Spannweite etc [Arbeitsblatt 19](mathe/arbeitsmaterial/aufg-19-durchschnitt-2026-03-24.pdf) mit [Lösung](mathe/arbeitsmaterial/loes-19-durchschnitt-2026-03-24.pdf)
-
-* Die [Mitschrift](mathe/mitschriften_und_texte/26_2026-03-18_bbr_01_bits_and_bobs.pdf) vom 2026-03-18.
-
-* Das Aufgabenblatt 14 (Knobelaufgabe) ist [hier](mathe/arbeitsmaterial/aufg-14-allgemein-2026-02-10.pdf) und hier die [Lösung](mathe/arbeitsmaterial/loes-14-allgemein-2026-02-10.pdf).
-
-
-* Die [Mitschrift](mathe/mitschriften_und_texte/25_2026-02-12_gleichungssysteme_abschluss.pdf) vom 12.2.
-
-* [Das](https://www.korrekturen.de/genus/der-oder-das-quiz.shtml) [Quiz](mathe/quiz/2026-02-12-quiz.pdf) vom 12.02. und die [Lösung](mathe/quiz/2026-02-12-quiz-loes.pdf).
-
-* Das Aufgabenblatt 15 zur Lösung(szahl) linearer Gleichungen ist [hier](/mathe/arbeitsmaterial/aufg-15-loesungszahl-2026-02-11.pdf) und hier die [Lösung](/mathe/arbeitsmaterial/aufg-15-loesungszahl-2026-02-11-loes.pdf).
-
-* Das Aufgabenblatt 13 zur Lösung(szahl) linearer Gleichungen ist [hier](/mathe/arbeitsmaterial/aufg-13-loesungszahl-2026-02-10.pdf) und hier die [Lösung](mathe/arbeitsmaterial/aufg-13-loesungszahl-2026-02-10-loes.pdf).
-
+* [Arbeitsblatt 31](mathe/arbeitsmaterial/aufg-31-grundstueck1-2026-06-01.pdf) (Grundstücksaufgabe einfach) und [Lösung](mathe/arbeitsmaterial/aufg-31-grundstueck1-2026-06-01-loes.pdf)
+* [Arbeitsblatt 32](mathe/arbeitsmaterial/aufg-32-grundstueck2-2026-06-01.pdf) (Grundstücksaufgabe nicht ganz so einfach) und [Lösung](mathe/arbeitsmaterial/aufg-32-grundstueck2-2026-06-01-loes.pdf)
 
 
 # Über dieses Verzeichnis
