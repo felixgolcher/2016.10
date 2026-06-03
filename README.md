@@ -2,6 +2,8 @@
 
 Die [Lösungen](mathe/arbeitsmaterial/loesungen-buch-8.pdf) zu Buch 8.
 
+[Scans](mathe/arbeitsmaterial/buch-9-scans.pdf) von Buch 9.
+
 # Die aktuellen Aufgaben/Dateien 
 
 ## 2026-06-01
