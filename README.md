@@ -6,6 +6,12 @@ Die [Lösungen](mathe/arbeitsmaterial/loesungen-buch-8.pdf) zu Buch 8.
 
 # Die aktuellen Aufgaben/Dateien 
 
+## 2026-06-12
+
+In den letzten Tagen habe ich das hier nicht so oft aktualisiert, da ich darauf vertraue, dass inzwischen alle wissen, wie das hier funktioniert.
+
+Ich weise aber darauf hin, zum Beispiel der Test von heute hier online ist. Wie immer unter `mathe`, dann `arbeitsmaterial` und dort leider nach unten scrollen. Die Nummern sind ja fortlaufend, inzwischen sind wir bei `aufg-42-...`.
+
 ## 2026-06-01
 
 * [Arbeitsblatt 31](mathe/arbeitsmaterial/aufg-31-grundstueck1-2026-06-01.pdf) (Grundstücksaufgabe einfach) und [Lösung](mathe/arbeitsmaterial/aufg-31-grundstueck1-2026-06-01-loes.pdf)
