@@ -6,6 +6,11 @@ Die [Lösungen](mathe/arbeitsmaterial/loesungen-buch-8.pdf) zu Buch 8.
 
 # Die aktuellen Aufgaben/Dateien 
 
+## 2026-06-16
+
+* Hausaufgabe: [Blatt 44](mathe/arbeitsmaterial/aufg-44-scheitelpunktform-2026-06-15.pdf) mit den [Ergebnissen](mathe/arbeitsmaterial/aufg-44-scheitelpunktform-2026-06-15-loes.pdf) zur Kontrolle: **Achtung** Im Unterricht wurden fehlerhafte Lösungen angesagt.
+* Aus dem Unterricht: [Blatt 43](mathe/arbeitsmaterial/aufg-43-scheitelpunktform-2026-06-15.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-43-scheitelpunktform-2026-06-15-loes.pdf), jetzt auch mit vollständigen Skizzen der Parabeln.
+
 ## 2026-06-12
 
 In den letzten Tagen habe ich das hier nicht so oft aktualisiert, da ich darauf vertraue, dass inzwischen alle wissen, wie das hier funktioniert.
