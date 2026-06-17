@@ -18,7 +18,7 @@ Die [Lösungen](mathe/arbeitsmaterial/loesungen-buch-8.pdf) zu Buch 8.
 [zwei](mathe/arbeitsmaterial/aufg-49-nullstellen-2026-06-17-2.pdf) und 
 [drei](mathe/arbeitsmaterial/aufg-49-nullstellen-2026-06-17-3.pdf).
 * [Arbeitsblatt 47](mathe/arbeitsmaterial/aufg-47-desc-2026-06-17.pdf): von der Beschreibung der Parabel zur Funktionsgleichung. [Lösung](mathe/arbeitsmaterial/aufg-47-desc-2026-06-17-loes.pdf)
-* [Arbeitsblatt 48](mathe/arbeitsmaterial/aufg-48-graph-2026-06-17.pdf): vom Graphen der Parabel zur Funktionsgleichung. [Lösung](mathe/arbeitsmaterial/aufg-48-graph-2026-06-17-loes.pdf).
+* [Arbeitsblatt 48](mathe/arbeitsmaterial/aufg-48-graph-2026-06-17.pdf): vom Graphen der Parabel zur Funktionsgleichung. [Lösung](mathe/arbeitsmaterial/aufg-48-graph-2026-06-17-loes.pdf). Hier fiel es allen etwas schwer, den genauen Wert von $a$ abzulesen. Ihr könnt also annehmen, dass $a$ immer $+1$ oder $-1$ ist. Es geht hier also nur um das Vorzeichen. Wer es genauer machen möchte findet im Lösungsblatt die exakten Werte.
 
 
 ## 2026-06-16
