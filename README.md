@@ -12,6 +12,9 @@ Die [Lösungen](mathe/arbeitsmaterial/loesungen-buch-8.pdf) zu Buch 8.
 [eins](mathe/arbeitsmaterial/aufg-46-ade-2026-06-17-1.pdf), 
 [zwei](mathe/arbeitsmaterial/aufg-46-ade-2026-06-17-2.pdf) und 
 [drei](mathe/arbeitsmaterial/aufg-46-ade-2026-06-17-3.pdf).
+* [Arbeitsblatt 47](mathe/arbeitsmaterial/aufg-47-desc-2026-06-17.pdf): von der Beschreibung der Parabel zur Funktionsgleichung. [Lösung](mathe/arbeitsmaterial/aufg-47-desc-2026-06-17-loes.pdf)
+* [Arbeitsblatt 48](mathe/arbeitsmaterial/aufg-48-graph-2026-06-17.pdf): vom Graphen der Parabel zur Funktionsgleichung. [Lösung](mathe/arbeitsmaterial/aufg-48-graph-2026-06-17-loes.pdf).
+
 
 ## 2026-06-16
 
