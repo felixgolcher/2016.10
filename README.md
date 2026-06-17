@@ -25,6 +25,7 @@ Die [Lösungen](mathe/arbeitsmaterial/loesungen-buch-8.pdf) zu Buch 8.
 Weil, warum nicht, hier gleich die Arbeitsblätter, die es morgen geben wird:
 
 * [Arbeitsblatt 50](mathe/arbeitsmaterial/aufg-50-reise-2026-06-18.pdf): Ein voller Durchgang durch alles, was wir mit Parabeln machen können an einem konkreten Beispiel. [Lösung](mathe/arbeitsmaterial/aufg-50-reise-2026-06-18-loes.pdf)
+  - von diesem Blatt gibt es eine [vereinfachte Version](mathe/arbeitsmaterial/aufg-50-reise-2026-06-18-vereinfacht.pdf). Die Aufgaben sind dieselben, die Zahlen sind aber weniger mühsam. Man kann auch erst das eine, dann das andere rechnen. Hier ist die [Lösung](mathe/arbeitsmaterial/aufg-50-reise-2026-06-18-vereinfacht-loes.pdf).
 * [Arbeitsblatt 51](mathe/arbeitsmaterial/aufg-51-nstzahl-2026-06-18.pdf): Wie viele Nullstellen gibt es? Ein Haufen Beispiele. [Lösung](mathe/arbeitsmaterial/aufg-51-nstzahl-2026-06-18-loes.pdf)
 * [Arbeitsblatt 52](mathe/arbeitsmaterial/aufg-52-resume-2026-06-18.pdf): Was wissen wir alles über quadratische Gleichungen? Ein kurzer Leitfaden zum auswendig lernen. [Lösung](mathe/arbeitsmaterial/aufg-52-resume-2026-06-18-loes.pdf)
 
