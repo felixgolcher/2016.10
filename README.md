@@ -8,6 +8,7 @@ Die [Lösungen](mathe/arbeitsmaterial/loesungen-buch-8.pdf) zu Buch 8.
 
 ## 2026-06-17
 
+* Die [Mitschrift](mathe/mitschriften_und_texte/38_2026-06-17_nullstellen_allgemein.pdf) von heute. Diese ist sehr wichtig, dort wird die allgemeine Formel für die Nullstellen hergeleitet.
 * Lösungswortblatt Parabeln, $a$, $d$ und $e$ finden. Davon gibt es 12 verschiedene, die ersten 3 sind 
 [eins](mathe/arbeitsmaterial/aufg-46-ade-2026-06-17-1.pdf), 
 [zwei](mathe/arbeitsmaterial/aufg-46-ade-2026-06-17-2.pdf) und 
