@@ -1,6 +1,6 @@
 # Ständig interessante Dateien
 
-Die **[Checkliste](mathe/arbeitsmaterial/checkliste-mathe-4.pdf)** zur aktuellen Klausur!
+Die <span style="color:red">**[Checkliste](mathe/arbeitsmaterial/checkliste-mathe-4.pdf)**</span> zur aktuellen Klausur!
 
 Die [Lösungen](mathe/arbeitsmaterial/loesungen-buch-8.pdf) zu Buch 8.
 
