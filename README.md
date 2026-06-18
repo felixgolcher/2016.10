@@ -8,6 +8,16 @@ Die [Lösungen](mathe/arbeitsmaterial/loesungen-buch-8.pdf) zu Buch 8.
 
 # Die aktuellen Aufgaben/Dateien 
 
+## 2026-06-18
+
+Es macht wirklich ein bisschen Sinn, die Blätter genau entgegen ihrer Nummer durchzuarbeiten.
+
+* [Arbeitsblatt 52](mathe/arbeitsmaterial/aufg-52-resume-2026-06-18.pdf): Was wissen wir alles über quadratische Gleichungen? Ein kurzer Leitfaden zum auswendig lernen. [Lösung](mathe/arbeitsmaterial/aufg-52-resume-2026-06-18-loes.pdf)
+* [Arbeitsblatt 51](mathe/arbeitsmaterial/aufg-51-nstzahl-2026-06-18.pdf): Wie viele Nullstellen gibt es? Ein Haufen Beispiele. [Lösung](mathe/arbeitsmaterial/aufg-51-nstzahl-2026-06-18-loes.pdf)
+* [Arbeitsblatt 50](mathe/arbeitsmaterial/aufg-50-reise-2026-06-18.pdf): Ein voller Durchgang durch alles, was wir mit Parabeln machen können an einem konkreten Beispiel. [Lösung](mathe/arbeitsmaterial/aufg-50-reise-2026-06-18-loes.pdf)
+  - von diesem Blatt gibt es eine [vereinfachte Version](mathe/arbeitsmaterial/aufg-50-reise-2026-06-18-vereinfacht.pdf). Die Aufgaben sind dieselben, die Zahlen sind aber weniger mühsam. Man kann auch erst das eine, dann das andere rechnen. Hier ist die [Lösung](mathe/arbeitsmaterial/aufg-50-reise-2026-06-18-vereinfacht-loes.pdf).
+
+
 ## 2026-06-17
 
 * Die [Mitschrift](mathe/mitschriften_und_texte/38_2026-06-17_nullstellen_allgemein.pdf) von heute. Diese ist sehr wichtig, dort wird die allgemeine Formel für die Nullstellen hergeleitet.
@@ -22,12 +32,6 @@ Die [Lösungen](mathe/arbeitsmaterial/loesungen-buch-8.pdf) zu Buch 8.
 * [Arbeitsblatt 47](mathe/arbeitsmaterial/aufg-47-desc-2026-06-17.pdf): von der Beschreibung der Parabel zur Funktionsgleichung. [Lösung](mathe/arbeitsmaterial/aufg-47-desc-2026-06-17-loes.pdf)
 * [Arbeitsblatt 48](mathe/arbeitsmaterial/aufg-48-graph-2026-06-17.pdf): vom Graphen der Parabel zur Funktionsgleichung. [Lösung](mathe/arbeitsmaterial/aufg-48-graph-2026-06-17-loes.pdf). Hier fiel es allen etwas schwer, den genauen Wert von $a$ abzulesen. Ihr könnt also annehmen, dass $a$ immer $+1$ oder $-1$ ist. Es geht hier also nur um das Vorzeichen. Wer es genauer machen möchte findet im Lösungsblatt die exakten Werte.
 
-Weil, warum nicht, hier gleich die Arbeitsblätter, die es morgen geben wird:
-
-* [Arbeitsblatt 50](mathe/arbeitsmaterial/aufg-50-reise-2026-06-18.pdf): Ein voller Durchgang durch alles, was wir mit Parabeln machen können an einem konkreten Beispiel. [Lösung](mathe/arbeitsmaterial/aufg-50-reise-2026-06-18-loes.pdf)
-  - von diesem Blatt gibt es eine [vereinfachte Version](mathe/arbeitsmaterial/aufg-50-reise-2026-06-18-vereinfacht.pdf). Die Aufgaben sind dieselben, die Zahlen sind aber weniger mühsam. Man kann auch erst das eine, dann das andere rechnen. Hier ist die [Lösung](mathe/arbeitsmaterial/aufg-50-reise-2026-06-18-vereinfacht-loes.pdf).
-* [Arbeitsblatt 51](mathe/arbeitsmaterial/aufg-51-nstzahl-2026-06-18.pdf): Wie viele Nullstellen gibt es? Ein Haufen Beispiele. [Lösung](mathe/arbeitsmaterial/aufg-51-nstzahl-2026-06-18-loes.pdf)
-* [Arbeitsblatt 52](mathe/arbeitsmaterial/aufg-52-resume-2026-06-18.pdf): Was wissen wir alles über quadratische Gleichungen? Ein kurzer Leitfaden zum auswendig lernen. [Lösung](mathe/arbeitsmaterial/aufg-52-resume-2026-06-18-loes.pdf)
 
 
 ## 2026-06-16
